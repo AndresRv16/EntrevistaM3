@@ -40,3 +40,5 @@ Aplicación desarrollada con React para la gestión de incidencias.
 ```bash
 npm install
 npm run dev
+
+https://entrevista-m3.vercel.app
